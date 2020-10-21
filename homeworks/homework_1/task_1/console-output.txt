@@ -1,0 +1,35 @@
+littlebomb@pc:~$ amm
+Loading...
+Welcome to the Ammonite Repl 2.2.0 (Scala 2.13.3 Java 11.0.8)
+@ val name = "Egor" 
+name: String = "Egor"
+
+@ print(s"Hello Scala! This is $name") 
+Hello Scala! This is Egor
+
+@ 
+def greet(name:String, greeting:String = "Hello") = println(s"$greeting Scala! This is $name.") 
+defined function greet
+
+@ greet(name) 
+Hello Scala! This is Egor.
+
+
+@ greet(name, "Yo") 
+Yo Scala! This is Egor.
+
+
+@ greet(name, "Sup") 
+Sup Scala! This is Egor.
+
+
+@ greet(name.reverse, "Yo") 
+Yo Scala! This is rogE.
+
+
+@ greet(name.reverse, "Sup") 
+Sup Scala! This is rogE.
+
+
+@  
+

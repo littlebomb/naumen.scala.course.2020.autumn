@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(~run, None, None)[0m[0J
+[0m[[0m[0minfo[0m] [0m[0msbt server started at local:///home/xfcedos/.sbt/1.0/server/1a04e768a7beba70102c/sock[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/xfcedos/task_3/target/scala-2.13/classes ...[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.3. Compiling...[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 9.796s.[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m[0J
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 12 s, completed Oct 21, 2020, 10:17:21 PM[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__postWatch console0, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, None)[0m[0J
